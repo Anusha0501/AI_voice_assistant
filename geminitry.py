@@ -9,8 +9,8 @@ import google.generativeai as gpt
 
 gpt.configure(api_key="AIzaSyC8kQ1Rc8lOkAAQZDK7x43xifi_V9m3Eic")
 model = gpt.GenerativeModel("gemini-1.5-flash")
-weather_api_key = "343dfb812d196e284042489b46589867"
-news_api_key = "c0dc9c67068045bb945b43009912d3ca"
+weather_api_key = "enter your api key"
+news_api_key = "enter your api key"
 
 import pyttsx3
 
