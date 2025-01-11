@@ -10,8 +10,8 @@ import pywhatkit
 import vlc
 from threading import Thread
 
-weather_api_key = "343dfb812d196e284042489b46589867"
-news_api_key = "c0dc9c67068045bb945b43009912d3ca"
+weather_api_key = "enter your api key"
+news_api_key = "enter your api key"
 ACCESS_KEY = "+TozAJkNJYIzoB5O7Xgz5K2NuYpJhEu62tN5xhsi4kx3E+sDf5kKeQ=="
 KEYWORD_PATH = "Worcestershire_en_mac_v3_0_0.ppn"
 
