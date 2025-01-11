@@ -7,7 +7,7 @@ import time
 import pywhatkit
 import google.generativeai as gpt
 
-gpt.configure(api_key="AIzaSyC8kQ1Rc8lOkAAQZDK7x43xifi_V9m3Eic")
+gpt.configure(api_key="enter your api key for gpt config")
 model = gpt.GenerativeModel("gemini-1.5-flash")
 weather_api_key = "enter your api key"
 news_api_key = "enter your api key"
